@@ -1,0 +1,88 @@
+.main{
+    background-image: url("https://t4.ftcdn.net/jpg/02/92/20/37/360_F_292203735_CSsyqyS6A4Z9Czd4Msf7qZEhoxjpzZl1.jpg");
+    height: 700px;
+    font-family: Roboto,HelveticaNeue,Arial,sans-serif;
+    font-size: small;
+    color: rgba(0,0,0,0.87);
+    border-radius: 16px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.image{
+    display: inline-block;
+    margin-left: 420px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+.navbar{
+    background-color: white;
+    justify-content: right;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    
+}
+.prince{
+    display: inline-block;
+    margin-left: 300px;
+    margin-bottom: 25px;
+    color: #00572d !Important;
+}
+.prince1{
+    display: inline-block;
+    margin-bottom: 25px;
+    margin-left: 50px;
+    color: #00572d !Important;
+}
+.prince2{
+    display: inline-block;
+    margin-bottom: 25px;
+    margin-left: 60px;
+    color: #00572d !Important;
+}
+.prince3{
+    display: inline-block;
+    margin-bottom: 25px;
+    margin-left: 60px;
+    color: #00572d !Important;
+}
+.prince4{
+    display: inline-block;
+    margin-bottom: 25px;
+    margin-left: 60px;
+    color: #00572d !Important;
+}
+.prince5{
+    display: inline-block;
+    margin-bottom: 25px;
+    margin-left: 60px;
+    color: #00572d !Important;
+}
+.rushabh{
+    margin-left: 920px;
+    display: inline-block;
+    margin-top: 30px;
+}
+
+.rushabh:hover{
+    transform: scale(1.2);
+}
+.prince:hover{
+    transform: rotate(10deg);
+}
+.prince1:hover{
+    transform: rotate(10deg);
+}
+.prince2:hover{
+    transform: rotate(10deg);
+}
+.prince3:hover{
+    transform: rotate(10deg);
+}
+.prince4:hover{
+    transform: rotate(10deg);
+}
+.prince5:hover{
+    transform: rotate(10deg); 
+}
